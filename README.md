@@ -1,5 +1,5 @@
 # Competitive-programming
-> List of competitive programming solutions.
+> List of competitive programming solutions and coding challenges.
 
 # Problems & Solutions
 
